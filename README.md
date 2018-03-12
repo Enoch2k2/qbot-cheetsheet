@@ -14,6 +14,8 @@ qbot unresponsive - if student is unresponsive for 5 minutess, this command will
 
 qbot done - resolves pairing and puts tc back in queue for another pairing
 
+qbot more help - re-adds student to queue
+
 qbot resolve <link> - resolves question
 
 qbot who is on? - lists all the tcs, also shows how long they have been waiting in queue or shows how long they have been in a pairing.
