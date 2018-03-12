@@ -16,7 +16,7 @@ qbot done - resolves pairing and puts tc back in queue for another pairing
 
 qbot resolve <link> - resolves question
 
-qbot whoison? - lists all the tcs, also shows how long they have been waiting in queue or shows how long they have been in a pairing.
+qbot who is on? - lists all the tcs, also shows how long they have been waiting in queue or shows how long they have been in a pairing.
 
 qbot q - list all the students in queue
 ```
